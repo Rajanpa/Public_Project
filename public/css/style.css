@@ -1,0 +1,16 @@
+.service-block .image-box .image img {
+     height: 476 !important;
+ }
+
+ .whatsapp_main {
+     position: fixed;
+     bottom: 8px;
+     right: 8px;
+     z-index: 999;
+     text-align: right;
+ }
+
+ .whatsapp_main a img {
+     width: 15%;
+ }
+
